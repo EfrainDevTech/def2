@@ -1,0 +1,31 @@
+img{
+    display: flex;
+    width: 34vw;
+}
+.modal-footer{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    background-color: rgb(226, 64, 43);   
+    border-color: rgb(226, 43, 171) ;
+    border-radius: 100px;
+    width: 10vw;
+    height: 50px;
+}
+.body{
+    background-color: aqua;
+}
+.container{
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+}
+.nav{
+    background-color: aqua;
+}
+.navbar{
+    background-color: aqua;
+}
